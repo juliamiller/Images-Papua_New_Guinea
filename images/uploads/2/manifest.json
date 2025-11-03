@@ -1,0 +1,413 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/l2pvfzfmhy-mhikz6g0",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Images of Papua New Guinea"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://iiif.archive.org/image/iiif/2/jcmiller-yamhouse%2fjcmiller-yamhouse.jpg/full/380,/0/default.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "height": 285,
+      "width": 380
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/l2pvfzfmhy-mhikz6g0/canvas/n0bj1nkyqnn-mhil01ir",
+      "type": "Canvas",
+      "height": 1507,
+      "width": 2048,
+      "label": {
+        "en": [
+          "Filming women of Rouku village making grass skirts for Independence Day celebrations (2013)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.archive.org/image/iiif/2/jcm-in_Rouku-2013%2fjcm-in_Rouku-2013.jpeg/full/512,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 377,
+          "width": 512
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/l2pvfzfmhy-mhikz6g0/canvas/n0bj1nkyqnn-mhil01ir/annotation-page/6aafggndmrf-mhil01ir",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/l2pvfzfmhy-mhikz6g0/annotation/waqa9hrj21n-mhil01iq",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/l2pvfzfmhy-mhikz6g0/canvas/n0bj1nkyqnn-mhil01ir",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/2/jcm-in_Rouku-2013%2fjcm-in_Rouku-2013.jpeg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1507,
+                "width": 2048,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.archive.org/image/iiif/2/jcm-in_Rouku-2013%2fjcm-in_Rouku-2013.jpeg",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 2048,
+                    "height": 1507,
+                    "sizes": [
+                      {
+                        "width": 128,
+                        "height": 94
+                      },
+                      {
+                        "width": 256,
+                        "height": 188
+                      },
+                      {
+                        "width": 512,
+                        "height": 377
+                      },
+                      {
+                        "width": 1024,
+                        "height": 754
+                      },
+                      {
+                        "width": 2048,
+                        "height": 1507
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "height": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16
+                        ]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": [
+                          "jpg",
+                          "tif",
+                          "gif",
+                          "png"
+                        ],
+                        "maxArea": 3086336,
+                        "qualities": [
+                          "bitonal",
+                          "default",
+                          "gray",
+                          "color"
+                        ],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/l2pvfzfmhy-mhikz6g0/canvas/taho6x461x-mhil0k99",
+      "type": "Canvas",
+      "height": 4560,
+      "width": 6080,
+      "label": {
+        "en": [
+          "Yamhouse Mar garden community in Morehead District PNG (2013)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.archive.org/image/iiif/2/jcmiller-yamhouse%2fjcmiller-yamhouse.jpg/full/380,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 285,
+          "width": 380
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/l2pvfzfmhy-mhikz6g0/canvas/taho6x461x-mhil0k99/annotation-page/ba5qxo4owjd-mhil0k99",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/l2pvfzfmhy-mhikz6g0/annotation/8sn69f1dbwg-mhil0k99",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/l2pvfzfmhy-mhikz6g0/canvas/taho6x461x-mhil0k99",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/2/jcmiller-yamhouse%2fjcmiller-yamhouse.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4560,
+                "width": 6080,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.archive.org/image/iiif/2/jcmiller-yamhouse%2fjcmiller-yamhouse.jpg",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 6080,
+                    "height": 4560,
+                    "sizes": [
+                      {
+                        "width": 95,
+                        "height": 71
+                      },
+                      {
+                        "width": 190,
+                        "height": 143
+                      },
+                      {
+                        "width": 380,
+                        "height": 285
+                      },
+                      {
+                        "width": 760,
+                        "height": 570
+                      },
+                      {
+                        "width": 1520,
+                        "height": 1140
+                      },
+                      {
+                        "width": 3040,
+                        "height": 2280
+                      },
+                      {
+                        "width": 6080,
+                        "height": 4560
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "height": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32,
+                          64
+                        ]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": [
+                          "jpg",
+                          "tif",
+                          "gif",
+                          "png"
+                        ],
+                        "maxArea": 27724800,
+                        "qualities": [
+                          "bitonal",
+                          "default",
+                          "gray",
+                          "color"
+                        ],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/l2pvfzfmhy-mhikz6g0/canvas/vjpgxeoaqo-mhilbf0s",
+      "type": "Canvas",
+      "height": 4560,
+      "width": 6080,
+      "label": {
+        "en": [
+          "House in Bimadbn village in Morehead District, PNG (2013)"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://iiif.archive.org/image/iiif/2/bimadbn-house%2fBimadbn_house.jpg/full/380,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 285,
+          "width": 380
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/l2pvfzfmhy-mhikz6g0/canvas/vjpgxeoaqo-mhilbf0s/annotation-page/hy9tnrc1u05-mhilbf0s",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/l2pvfzfmhy-mhikz6g0/annotation/ga2pok5wk2p-mhilbf0r",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/l2pvfzfmhy-mhikz6g0/canvas/vjpgxeoaqo-mhilbf0s",
+              "body": {
+                "id": "https://iiif.archive.org/image/iiif/2/bimadbn-house%2fBimadbn_house.jpg/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4560,
+                "width": 6080,
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.archive.org/image/iiif/2/bimadbn-house%2fBimadbn_house.jpg",
+                    "protocol": "http://iiif.io/api/image",
+                    "width": 6080,
+                    "height": 4560,
+                    "sizes": [
+                      {
+                        "width": 95,
+                        "height": 71
+                      },
+                      {
+                        "width": 190,
+                        "height": 143
+                      },
+                      {
+                        "width": 380,
+                        "height": 285
+                      },
+                      {
+                        "width": 760,
+                        "height": 570
+                      },
+                      {
+                        "width": 1520,
+                        "height": 1140
+                      },
+                      {
+                        "width": 3040,
+                        "height": 2280
+                      },
+                      {
+                        "width": 6080,
+                        "height": 4560
+                      }
+                    ],
+                    "tiles": [
+                      {
+                        "width": 512,
+                        "height": 512,
+                        "scaleFactors": [
+                          1,
+                          2,
+                          4,
+                          8,
+                          16,
+                          32,
+                          64
+                        ]
+                      }
+                    ],
+                    "profile": [
+                      "http://iiif.io/api/image/2/level2.json",
+                      {
+                        "formats": [
+                          "jpg",
+                          "tif",
+                          "gif",
+                          "png"
+                        ],
+                        "maxArea": 27724800,
+                        "qualities": [
+                          "bitonal",
+                          "default",
+                          "gray",
+                          "color"
+                        ],
+                        "supports": [
+                          "regionByPx",
+                          "sizeByW",
+                          "sizeByWhListed",
+                          "cors",
+                          "regionSquare",
+                          "sizeByDistortedWh",
+                          "canonicalLinkHeader",
+                          "sizeByConfinedWh",
+                          "sizeByPct",
+                          "jsonldMediaType",
+                          "regionByPct",
+                          "rotationArbitrary",
+                          "sizeByH",
+                          "baseUriRedirect",
+                          "rotationBy90s",
+                          "profileLinkHeader",
+                          "sizeByForcedWh",
+                          "sizeByWh",
+                          "mirroring"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
