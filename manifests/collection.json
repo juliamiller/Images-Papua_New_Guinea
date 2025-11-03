@@ -1,0 +1,15 @@
+{
+  "id" : "https://juliamiller.github.io/Images-Papua_New_Guinea/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in juliamiller/Images-Papua_New_Guinea project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://juliamiller.github.io/Images-Papua_New_Guinea/manifests/Images_Papua.json",
+    "label" : {
+      "en" : [ "Images of Papua New Guinea" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
