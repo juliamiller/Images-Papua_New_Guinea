@@ -17,5 +17,11 @@
       "en" : [ "Images of Papua New Guinea" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://juliamiller.github.io/Images-Papua_New_Guinea/manifests/ImagesPapua",
+    "label" : {
+      "en" : [ "Images of Papua New Guinea" ]
+    },
+    "type" : "Manifest"
   } ]
 }
